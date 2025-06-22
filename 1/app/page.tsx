@@ -53,7 +53,7 @@ export default function Component() {
                 </div>
                 <div className="flex flex-col gap-3 sm:flex-row sm:justify-center lg:justify-start">
                   <Button size="lg" className="bg-orange-600 hover:bg-orange-700 w-full sm:w-auto" asChild>
-                    <Link href="http://66.42.97.211:3001" target="_blank" rel="noopener noreferrer">
+                    <Link href="http://66.42.97.211:3000" target="_blank" rel="noopener noreferrer">
                       <ShoppingCart className="mr-2 h-4 w-4" />
                       Hoziroq band qiling
                     </Link>
